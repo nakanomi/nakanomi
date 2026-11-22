@@ -20,6 +20,8 @@ C++やPythonを用いた開発・技術支援の実務経験を持つソフト�
 - **[codingame-debug-template-for-rust](https://github.com/nakanomi/codinggame-debug-template-for-rust)**
   - Rustの学習に[codinggame](https://www.codingame.com/home)というサイトを使っています。その過程で感じた不便さの解消用に作ったボイラーテンプレートです
 
+## その他
+
 - **CodinGame (Rust 実践・アルゴリズム学習):** [Public Profile](https://www.codingame.com/profile/97f6de5e1bef86b3f109a1c009a219854036301)
   - 所有権・借用や標準コレクションの理解を深めるため、中級（Medium）以上のアルゴリズム課題（BFS等）をRustで実装しています。
 
