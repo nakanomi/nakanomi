@@ -15,7 +15,7 @@ C++やPythonを用いた開発・技術支援の実務経験を持つソフト�
 - **実務経験あり:** C/C++, C#, Java, Python, Lua, Excel VBA
 - **現在学習・実践中:** Rust
 
-## 📂 Pinned Repositories (ピックアップ)
+## 📂 Pinned Repositories ([ピックアップ](https://github.com/nakanomi/codinggame-debug-template-for-rust))
 
 - **[codingame-debug-template-for-rust]([リポジトリのURL](https://github.com/nakanomi/codinggame-debug-template-for-rust))**
   - Rustの学習に[codinggame](https://www.codingame.com/home)というサイトを使っています。その過程で感じた不便さの解消用に作ったボイラーテンプレートです
