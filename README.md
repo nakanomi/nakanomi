@@ -1,4 +1,21 @@
-## Hi there 👋
+## 👋 About Me
+
+C++やPythonを用いた開発・技術支援の実務経験を持つソフトウェアエンジニアです。
+現在はメモリ安全性への理解をさらに深めるため、**Rust**の学習に注力しています。
+
+次のことを大切にしています
+- コードは読みやすく書く
+- 手作業を減らし、仕組み化して効率を上げる 
+
+---
+
+## 🛠 Technical Skills
+
+### Languages
+- **実務経験あり:** C/C++, C#, Java, Python, Lua, Excel VBA
+- **現在学習・実践中:** Rust
+
+
 
 <!--
 **nakanomi/nakanomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
